@@ -14,7 +14,7 @@ A comprehensive, modular engineering calculator implemented in C. Designed for h
 ```bash
 gcc main.c -o calculator -lm
 ./calculator
----
+```
 ## Author
 **Armin Ilat**  
 Electrical Engineering Student  
