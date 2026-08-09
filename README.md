@@ -153,7 +153,7 @@ This project strengthens practical understanding of:
 - CLI menu design and function pointers (used for the plotting module)
 
 ---
-📈**Version History
+📈 Version History
 ### v1.1 — Current Version
 
 - Added recursive-descent expression parsing
