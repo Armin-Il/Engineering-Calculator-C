@@ -1,5 +1,11 @@
 # 🧮 Engineering Calculator (C)
 
+![C](https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![CLI](https://img.shields.io/badge/interface-CLI-black?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+![GCC](https://img.shields.io/badge/compiler-GCC-orange?style=for-the-badge&logo=gnu&logoColor=white)
+
 A command-line engineering calculator written in **C**, combining a custom expression parser, matrix operations, unit conversion, persistent calculation memory, and ASCII function plotting — all in a single-file application.
 
 ---
